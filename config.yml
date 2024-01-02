@@ -1,0 +1,23 @@
+##############
+
+# SenkoGuard Bot Config
+
+##############
+
+Bot:
+  BotToken: ""
+  ClientID: ""
+  ActivityName: "test"
+  GuildID: "" # main guild
+  MongoDBLink: ""
+
+Setup:
+  supportServerInviteLink: ""
+  supportRoleID: ""
+  EmbedColor: "#FF0000"
+  EmbedFooter: "Test"
+  Owners: ["", ""] # you can add as many as you want with the format "", "", "", etc
+
+TicketSystem:
+  AppealCategoryID: "" 
+  ReportCategoryID: ""

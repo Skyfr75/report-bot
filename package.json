@@ -1,0 +1,21 @@
+{
+  "name": "Forim",
+  "version": "1.0.0",
+  "description": "Bot",
+  "main": "./src/index.js",
+  "author": "V8",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "colors": "^1.4.0",
+    "discord-api-types": "^0.37.10",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2",
+    "js-yaml": "^4.1.0",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.4",
+    "ms": "^2.1.3"
+  }
+}
